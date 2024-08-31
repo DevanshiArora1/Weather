@@ -1,0 +1,40 @@
+<li id=<span id="region" id=</span id=</li id=
+<li id=Country: <span id="country" id=</span id=</li id=
+<li id=Latitude: <span id="lat" id=</span id=</li id=
+<li id=Longitude: <span id="lon" id=</span id=</li id=
+<li id=Timezone: <span id="tz_id" id=</span id=</li id=
+<li id=Temperature <th style="width: 22%"C): <span id="temp_c" id=</span id=</li id=
+<li id=Feels Like <th style="width: 22%"C): <span id="feelslike_c" id=</span id=</li id=
+<li id=Wind Speed <th style="width: 22%"kph): <span id="wind_kph" id=</span id=</li id=
+<li id=Pressure <th style="width: 22%"in): <span id="pressure_in"  id=</span id=</li id=
+<li id=Precipitation <th style="width: 22%"in): <span id="precip_in" id=</span id=</li id=
+<li id=Humidity: <span id="humidity" id=</span id=</li id=
+<li id=Dew Point <th style="width: 22%"C): <span id="dewpoint_c" id=</span id=</li id=
+
+
+<th style="width: 22%" id=Free</th id=
+<th style="width: 22%" id=Pro</th id=
+<th style="width: 22%" id=Enterprise</th id=
+
+<th style="width: 22%" id="region">Region: </th>
+<th style="width: 22%" id="lat">Latitude: </th>
+<th style="width: 22%" id="lon">Longitude: </th>
+<th style="width: 22%" id="tz_id">Timezone: </th>
+<th style="width: 22%" id="temp_c">Temperature C: </th>
+<th style="width: 22%" id="feelslike_c">Feels Like C:</th> 
+<th style="width: 22%" id="wind_kph">Wind Speed kph: </th>
+<th style="width: 22%" id="pressure_in">Pressure in: </th>
+<th style="width: 22%" id="precip_in">Precipitation in: </th>
+<th style="width: 22%" id="humidity">Humidity: </th>
+<th style="width: 22%" id="dewpoint_c">Dew Point C: </th>
+<th style="width: 22%" id="country">Country: </th>
+
+<li><span id="region">Region:</span></li>
+<li><span id="country">Country:</span></li>
+<li><span id="lat">Latitude:</span></li>
+<li><span id="lon">Longitude:</span></li>
+
+<li><span id="tz_id">Timezone:</span></li>
+                  <li><span id="temp_c">Temperature (C): </span></li>
+                  <li><span id="feelslike_c">>Feels Like C:</span></li>
+                  <li><span id="wind_kph">Wind Speed kph:</span></li>
